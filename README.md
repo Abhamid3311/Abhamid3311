@@ -30,9 +30,7 @@ Skills: JS/ TS/ React Js/ Next Js/ Redux/ Tailwind CSS/ Bootstrap/ SASS/ HTML5/ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhamid3311&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Abhamid3311)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Abhamid3311)  
 
-![Profile views](https://gpvc.arturio.dev/Abhamid3311)  
+
 
