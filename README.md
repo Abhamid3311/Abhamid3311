@@ -1,7 +1,7 @@
 ![Frontend Developer](https://i.ibb.co/FKBksf7/Blue-Yellow-Corporate-Linkedin-Article-Cover-image-1.png)
 
-### Hi 👋, I'm Md. Abdul Hamid
-#### Frontend Developer
+## Hi 👋, I'm Md. Abdul Hamid
+### Frontend Developer
 
 
 I'm a dedicated Frontend Developer with a passion for learning and a strong work ethic. I thrive on challenges and strive to leverage my skills for creative purposes.
