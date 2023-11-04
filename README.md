@@ -29,7 +29,7 @@ Skills: JS/ TS/ React Js/ Next Js/ Redux/ Tailwind CSS/ Bootstrap/ SASS/ HTML5/ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhamid3311)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhamid3311&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhamid3311&show_icons=true&theme=dark)  
 
 
 
