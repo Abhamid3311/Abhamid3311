@@ -13,6 +13,7 @@ Beyond Frontend, I've explored backend technologies like Node JS, MongoDB, and E
 Feel free to connect for collaborations or discussions:
 
 📧 Email: abhamid8586@gmail.com
+
 📱 WhatsApp: +880 1985-308586
 
 Skills: JS/ TS/ React Js/ Next Js/ Redux/ Tailwind CSS/ Bootstrap/ SASS/ HTML5/ CSS3/ Node Js/ Express Js/ MongoDB/ NextAuth/ Firebase.
