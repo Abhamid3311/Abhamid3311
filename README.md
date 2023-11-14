@@ -15,7 +15,7 @@ Feel free to connect for collaborations or discussions:
 📧 Email: abhamid8586@gmail.com  
 📱 WhatsApp: +880 1985-308586
 
-Skills: 
+Skills:    
   👩‍💻Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, SASS, Styled Component, MUI, Flowbite, DaisyUI, Ant Design.   
   👩‍💻Language & Library: JavaScript, TypeScript, ReactJs, NextJs, ReduxJs, RTK Query, Firebase Auth, NextAuth.   
   👩‍💻Backend: NodeJs, ExpressJs, MongoDB, Mongoose, Docker.  
