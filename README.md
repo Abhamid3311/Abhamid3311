@@ -4,24 +4,27 @@
 ## Frontend Developer
 
 
-I'm a dedicated Frontend Developer with a passion for learning and a strong work ethic. I thrive on challenges and strive to leverage my skills for creative purposes.
+I'm a dedicated front-end developer with a passion for learning and a strong work ethic. I thrive on challenges and strive to leverage my skills for creative purposes.
 
-My specialization lies in frontend technologies including HTML5, CSS3, SASS, Bootstrap, and Tailwind css. I'm well-versed in JavaScript, particularly ES6, Typescript, React.js, Redux and Next.js , enabling me to create engaging and interactive web applications.
+My specialization lies in frontend technologies including HTML5, CSS3, SASS, Bootstrap, and Tailwind CSS. I'm well-versed in JavaScript, particularly ES6, Typescript, React.js, Redux, and Next.js, enabling me to create engaging and interactive web applications.
 
-Beyond Frontend, I've explored backend technologies like Node JS, MongoDB, and Express js. I'm experienced in deployment using C-Panel server, Heroku, Vercel, Render, Firebase, and Netlify. I rely on Git and Github for effective code management.
+Beyond Frontend, I've explored backend technologies like Node JS, MongoDB, and Express JS. I'm experienced in deployment using C-Panel servers, Heroku, Vercel, Render, Firebase, and Netlify. I rely on Git and Github for effective code management.
 
 Feel free to connect for collaborations or discussions:
 
-📧 Email: abhamid8586@gmail.com
-
+📧 Email: abhamid8586@gmail.com  
 📱 WhatsApp: +880 1985-308586
 
-Skills: JS/ TS/ React Js/ Next Js/ Redux/ Tailwind CSS/ Bootstrap/ SASS/ HTML5/ CSS3/ Node Js/ Express Js/ MongoDB/ NextAuth/ Firebase.
+Skills: 
+  👩‍💻Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, SASS, Styled Component, MUI, Flowbite, DaisyUI, Ant Design.
+  👩‍💻Language & Library: JavaScript, TypeScript, ReactJs, NextJs, ReduxJs, RTK Query, Firebase Auth, NextAuth.
+  👩‍💻Backend: NodeJs, ExpressJs, MongoDB, Mongoose, Docker.
+
 
 - 🔭 I’m currently free to Work
 - 🌱 I’m currently learning Docker, AWS 
 - 👯 I’m looking to collaborate on  MERN-Stack Project 
-- 🤔 I’m looking for help with Remote opportunity 
+- 🤔 I’m looking for help with a Remote opportunity 
 - 💬 Ask me about Frontend Development 
 - 📫 How to reach me: abhamid8586@gmail.com 
 
