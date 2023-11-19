@@ -12,7 +12,9 @@ With 2 years of immersive development experience, I am your go-to expert for cra
 
 🔧 Offering bespoke solutions, my expertise lies in custom development, ensuring your vision is translated into a digital masterpiece. Let's collaborate and elevate your web presence to new heights.
 
-📧 Connect with me at abhamid8586@gmail.com or ping me on WhatsApp at +8801985308586. Let's shape the future of web development together! 🚀
+📧 Connect with me at abhamid8586@gmail.com or ping me on WhatsApp at +8801985308586.  
+
+Let's shape the future of web development together! 🚀
 
 Skills:    
   👩‍💻Frontend: HTML5, CSS3, Tailwind CSS, Bootstrap, SASS, Styled Component, MUI, Flowbite, DaisyUI, Ant Design.   
