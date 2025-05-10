@@ -1,4 +1,4 @@
-![I'm a Fullstack developer](https://i.ibb.co/dsphJDHF/Black-Minimalist-Linkedin-Banner.png)
+![I'm a Fullstack developer](https://i.ibb.co.com/gMvLJfBn/Black-Minimalist-Linkedin-Banner-1.png)
 
 # Hello 👋, I'm Hamid
 ## 🎯 Sr. Project Executive at Programming Hero | 🚀 Full-Stack Developer | Developer Mentor | Strong Communicator & Team Leader
