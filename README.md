@@ -1,15 +1,14 @@
 ![I'm a Fullstack developer](https://i.ibb.co.com/YX3Gy0H/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png)
 
 # Hello 👋, I'm Hamid
-## 🚀 Full-Stack Developer | React & Next.js Expert | Backend with Node.js & MongoDB
-## 🎯 Sr. Project Executive at Programming Hero | Developer Mentor | Strong Communicator & Team Leader
+## 🎯 Sr. Project Executive at Programming Hero | 🚀 Full-Stack Developer | Developer Mentor | Strong Communicator & Team Leader
 
 
 # 💫 About Me:
 
-With over 4 years of experience in the tech industry, I combine technical expertise with strong communication and leadership skills to build impactful web applications and empower the next generation of developers. <br><br>
+With over 4 years of experience in the tech industry, I combine technical expertise with strong communication and leadership skills to build impactful web applications and empower the next generation of developers. <br>
 
-Currently, I work at Programming Hero as a Senior Project Executive, where I: <br><br>
+Currently, I work at Programming Hero as a Senior Project Executive, where I: <br>
 
 - Lead developer grooming initiatives
 - Mentor aspiring engineers for real-world projects
