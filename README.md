@@ -1,11 +1,31 @@
 ![I'm a Fullstack developer](https://i.ibb.co.com/YX3Gy0H/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png)
 
-# Hi 👋, I'm Md. Abdul Hamid
-## Fullstack Developer
+# Hello 👋, I'm Hamid
+## 🚀 Full-Stack Developer | React & Next.js Expert | Backend with Node.js & MongoDB
+## 🎯 Sr. Project Executive at Programming Hero | Developer Mentor | Strong Communicator & Team Leader
 
 
 # 💫 About Me:
-🚀 Passionate Frontend Developer | React & Next.js Enthusiast | TypeScript Maestro 🌐<br><br>With 2 years of immersive development experience, I am your go-to expert for crafting seamless and responsive web solutions. Specializing in React and Next.js, I bring a dynamic blend of creativity and technical prowess to the table.<br><br>🛠️ Armed with a toolkit of JavaScript and TypeScript, I code with precision and finesse. Debugging is not just a task; it's a commitment to delivering flawless solutions. Tailwind CSS is my canvas, where I sculpt visually stunning and intuitive designs.<br><br>🔧 Offering bespoke solutions, my expertise lies in custom development, ensuring your vision is translated into a digital masterpiece. Let's collaborate and elevate your web presence to new heights.<br><br>📧 Connect with me at abhamid8586@gmail.com or ping me on WhatsApp at +8801985308586.<br><br>Let's shape the future of web development together! 🚀
+
+With over 4 years of experience in the tech industry, I combine technical expertise with strong communication and leadership skills to build impactful web applications and empower the next generation of developers. <br><br>
+
+Currently, I work at Programming Hero as a Senior Project Executive, where I: <br><br>
+
+- Lead developer grooming initiatives
+- Mentor aspiring engineers for real-world projects
+- Help shape soft skills like communication, collaboration, and problem-solving
+
+
+## 🧠 Known for:
+
+- Writing clean, scalable, production-ready code
+- Explaining complex topics in a simple, clear way
+- Building strong, supportive developer communities
+
+## 📫 Let’s connect:
+
+- Email: abhamid8586@gmail.com
+- WhatsApp: +8801985308586
 
 
 ## 🌐 Socials:
