@@ -13,6 +13,7 @@ Currently, I work at Programming Hero as a Senior Project Executive, where I: <b
 - Lead developer grooming initiatives
 - Mentor aspiring engineers for real-world projects
 - Help shape soft skills like communication, collaboration, and problem-solving
+- involved in project management to ensure smooth execution and team alignment
 
 
 ## 🧠 Known for:
