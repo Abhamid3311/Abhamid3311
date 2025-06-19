@@ -14,7 +14,7 @@ Currently, I work at Programming Hero as a Senior Project Executive, where I: <b
 - Mentor aspiring engineers for real-world projects
 - Help shape soft skills like communication, collaboration, and problem-solving
 - involved in project management to ensure smooth execution and team alignment
-- Learning Python & Al 
+- Learning Python & Al/ML
 
 
 ## 🧠 Known for:
