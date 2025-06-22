@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-With over 4 years of experience in the tech industry, I combine technical expertise with strong communication and leadership skills to build impactful web applications and empower the next generation of developers. <br>
+With over 4+ years of experience in the tech industry, I combine technical expertise with strong communication and leadership skills to build impactful web applications and empower the next generation of developers. <br>
 
 Currently, I work at Programming Hero as a Senior Project Executive, where I: <br>
 
