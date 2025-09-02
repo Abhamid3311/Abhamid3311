@@ -6,22 +6,17 @@
 
 # 💫 About Me:
 
-With over 4+ years of experience in the tech industry, I combine technical expertise with strong communication and leadership skills to build impactful web applications and empower the next generation of developers. <br>
+I’m a Full-Stack Developer with 4+ years of experience building scalable web applications using Next.js, React, Node.js, and MongoDB. I specialize in creating high-performance, user-centric solutions that balance clean architecture with real-world business needs.
 
-Currently, I work at Programming Hero as a Senior Project Executive, where I: <br>
+Beyond coding, I bring a leadership mindset—mentoring developers, leading projects from planning to deployment, and ensuring teams deliver on time without compromising quality. I thrive in collaborative environments, but I’m equally comfortable taking ownership of challenging problems and driving them to completion.
 
-- Lead developer grooming initiatives.
-- Mentor aspiring engineers for real-world projects
-- Help shape soft skills like communication, collaboration, and problem-solving
-- involved in project management to ensure smooth execution and team alignment
-- Learning Python & Al.
+🧠 What I’m Known For:
 
+- Designing and implementing robust, production-ready systems
+- Leading teams with a focus on clarity, accountability, and results
+- Breaking down complex problems into practical, simple solutions
+- Staying curious—constantly exploring new technologies and best practices
 
-## 🧠 Known for:
-
-- Writing clean, scalable, production-ready code
-- Explaining complex topics in a simple, clear way
-- Building strong, supportive developer communities
 
 ## 📫 Let’s connect:
 
