@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-I’m a Full-Stack Developer with 4+ years of experience building scalable web applications using Next.js, React, Node.js, and MongoDB. I specialize in creating high-performance, user-centric solutions that balance clean architecture with real-world business needs.
+I’m a Full-Stack Developer with 4 years of experience building scalable web applications using Next.js, React, Node.js, and MongoDB. I specialize in creating high-performance, user-centric solutions that balance clean architecture with real-world business needs.
 
 Beyond coding, I bring a leadership mindset—mentoring developers, leading projects from planning to deployment, and ensuring teams deliver on time without compromising quality. I thrive in collaborative environments, but I’m equally comfortable taking ownership of challenging problems and driving them to completion.
 
