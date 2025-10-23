@@ -1,10 +1,10 @@
 ![I'm a Fullstack developer](https://i.ibb.co/gMvLJfBn/Black-Minimalist-Linkedin-Banner-1.png)
 
-# Hello 👋, I'm Hamid
-## 🚀 Full-Stack Developer | Strong Communicator & Team Leader | Project Manager
+# Hello, I'm Hamid
+##  Full-Stack Developer | Strong Communicator & Team Leader | Technical Project Manager
 
 
-# 💫 About Me:
+# About Me:
 
 I’m a Full-Stack Developer with 4 years of experience building scalable web applications using Next.js, React, Node.js, and MongoDB. I specialize in creating high-performance, user-centric solutions that balance clean architecture with real-world business needs.
 
