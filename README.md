@@ -1,7 +1,7 @@
 ![I'm a Fullstack developer](https://i.ibb.co/gMvLJfBn/Black-Minimalist-Linkedin-Banner-1.png)
 
 # Hi, I'm Ab Hamid
-##  Full-Stack Developer | Technical Project Manager | Strong Communicator & Team Leader.
+##  Full-Stack Developer | Technical Project Manager | Strong Communicator & Team Leader
 
 
 # About Me :
